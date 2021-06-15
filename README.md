@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthh" alt="phanthh" /> </p>
 - 🔭 I’m currently working on Virsity App
+
 - 🌱 I’m currently learning Vue & deno
+
 - 👯 I’m looking to collaborate on MERN stack projects
+
 - 💬 Ask me about Web dev and Linux related Stuff
+
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/phanthh/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:phanthehauah1@gmail.com)
 
