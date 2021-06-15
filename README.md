@@ -18,4 +18,4 @@
 ## stats or something, idk
 ![Hau's github stats](https://github-readme-stats.vercel.app/api?username=phanthh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
-btw, i used ![Arch Badge](https://img.shields.io/badge/-Arch-blue?style=flat-square&logo=ArchLinux&logoColor=white&link=)
+btw, i do use ![Arch Badge](https://img.shields.io/badge/-Arch-blue?style=flat-square&logo=ArchLinux&logoColor=white&link=)
