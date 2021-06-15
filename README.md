@@ -2,6 +2,7 @@
 <h3 align="center">🚀 developer - learner - linux 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthh" alt="phanthh" /> </p>
+
 - 🔭 I’m currently working on Virsity App
 
 - 🌱 I’m currently learning Vue & deno
@@ -10,8 +11,9 @@
 
 - 💬 Ask me about Web dev and Linux related Stuff
 
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/phanthh/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:phanthehauah1@gmail.com)
+- 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/phanthh/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:phanthehauah1@gmail.com)
 
 - ⚡ Fun fact: I love using ![NeoVim](https://img.shields.io/badge/-NeoVim-blue?style=flat-square&logo=NeoVim&logoColor=white&link=) !!!
 
