@@ -17,7 +17,5 @@
 
 - ⚡ Fun fact: I love using ![NeoVim](https://img.shields.io/badge/-NeoVim-blue?style=flat-square&logo=NeoVim&logoColor=white&link=) !
 
-## Some Statistics About Me
+## Some Stats
 ![Hau's github stats](https://github-readme-stats.vercel.app/api?username=phanthh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-
-⭐️ From [phanthh](https://github.com/phanthh)
