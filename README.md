@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthh" alt="phanthh" /> </p>
 
-- 🔭 i’m currently working on Virsity App
-
-- 🌱 i’m currently learning Vue & deno
-
 - 👯 i’m looking to collaborate on MERN stack projects
 
 - 💬 ask me about web dev and linux related stuff
