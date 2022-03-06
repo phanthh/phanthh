@@ -1,5 +1,5 @@
-<h1 align="center">hello, i'm hau phan 👋</h1>
-<h3 align="center">🚀 web developer - data science undergrad - linux enthusiast 🚀</h3>
+<h1 align="center">hi! i'm hau!</h1>
+<h3 align="center">web developer - data science undergrad - linux enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthh" alt="phanthh" /> </p>
 
