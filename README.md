@@ -6,7 +6,7 @@
 - 📫 how to reach me:
 
   - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) phanthh](https://www.linkedin.com/in/phanthh/),
-  - mail: [software](mailto:phanthh25701@gmail.com), [academia](mailto:hau.phan@aalto.fi)
+  - [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) software](mailto:phanthh25701@gmail.com), [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) academia](mailto:hau.phan@aalto.fi)
 
 - ⚡ tools i use: [arch linux](https://archlinux.org/), [neovim](https://github.com/neovim/neovim) and [others](https://github.com/phanthh/dotfiles)
 
