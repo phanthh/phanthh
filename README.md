@@ -15,4 +15,4 @@
   - ![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [phanthh](https://www.linkedin.com/in/phanthh/),
   - ![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [software](mailto:phanthh25701@gmail.com), [academia](mailto:hau.phan@aalto.fi)
 
-![stats](https://github-readme-stats.vercel.app/api?username=phanthh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=101010)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=phanthh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=101010) -->
