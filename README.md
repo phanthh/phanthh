@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthh" alt="phanthh" /> </p>
 
-- 📫 how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/phanthh/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:phanthehauah1@gmail.com)
+- 📫 how to reach me:
 
-- ⚡ tools i use: ![NeoVim](https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white&link=), ![Arch Badge](https://img.shields.io/badge/-Arch-blue?style=flat-square&logo=ArchLinux&logoColor=white&link=), ([dotfiles](https://github.com/phanthh/dotfiles))
+  - [linkedin](https://www.linkedin.com/in/phanthh/),
+  - mail: [software](mailto:phanthh25701@gmail.com), [academia](mailto:hau.phan@aalto.fi)
+
+- ⚡ tools i use: [arch linux](https://archlinux.org/), [neovim](https://github.com/neovim/neovim) and [others](https://github.com/phanthh/dotfiles)
 
 <!-- ## some stats -->
 <!---->
